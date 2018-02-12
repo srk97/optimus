@@ -19,7 +19,7 @@ public:
 	void add(Layer layer){
 		layers.push_back(layer);
 	}
-
+// TO-DO: Create placeholder for batch dispatch
 	void forward(){
 
 		std::vector<Layer>::iterator it;
