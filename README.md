@@ -1,10 +1,10 @@
 # optimus
 
-Under construction!
+Under development!
 
 #### Dependencies
 - xtensor
 - xtensor-blas for linalg
 - C++ 14
 
-Will be releasing in March 2018
+Tentative: May 2018
