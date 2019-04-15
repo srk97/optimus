@@ -7,4 +7,4 @@ Under development!
 - xtensor-blas for linalg
 - C++ 14
 
-Tentative: Fall 2018
+Status: Inactive
